@@ -1,8 +1,7 @@
 package homework2.task2;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.FileWriter;
-import java.io.IOException;
+
 
 
 public class Task1 {
