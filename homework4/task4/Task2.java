@@ -2,6 +2,9 @@ package homework4.task4;
 
 import java.util.LinkedList;
 
+//Реализуйте очередь с помощью LinkedList со следующими методами:
+//enqueue() - помещает элемент в конец очереди, dequeue() -
+// возвращает первый элемент из очереди и удаляет его, first() - возвращает первый элемент из очереди, не удаляя.
 public class Task2 {
     public static void main(String[] args) {
         int[] list = { 3, 5, 7, 2, 4, 6 };
